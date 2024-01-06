@@ -1,7 +1,14 @@
-# Detecting-AI-generated-text
-This repo consists of two approaches to detection of AI generated text.
+# Detecting AI-Generated Text
 
-a) Ensemble Method
-b) Using pre-trained BERT model
+This repository focuses on two distinct approaches for the detection of AI-generated text:
 
-A comprehensive project report can be found here!
+## Approaches
+
+### a) Ensemble Method
+   - The ensemble method leverages a combination of multiple models to enhance the accuracy of text detection. 
+
+### b) Pre-trained BERT Model
+   - In this approach, we employ a pre-trained BERT (Bidirectional Encoder Representations from Transformers) model for text classification, in combination with additional dense layers/
+
+## Project Report
+   - For a detailed overview, insights, and comparisons between the two approaches, refer to our comprehensive project report [here](link_to_your_project_report).
