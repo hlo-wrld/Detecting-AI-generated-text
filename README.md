@@ -1,6 +1,6 @@
 # Detecting AI-Generated Text
 
-This repository focuses on two distinct approaches for the detection of AI-generated text:
+This repository focuses on two distinct approaches for the detection of AI-generated text. The used dataset are https://www.kaggle.com/competitions/llm-detect-ai-generated-text/data and https://www.kaggle.com/datasets/thedrcat/daigt-v2-train-dataset
 
 ## Approaches
 
